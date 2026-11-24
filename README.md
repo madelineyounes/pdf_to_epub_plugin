@@ -1,6 +1,6 @@
 # PDF to EPUB (Keep Formatting)
 
-For Kim, the cutest lawyer ever. I made this for you.
+For Kim, the cutest lawyer ever. I made this for you :)
 
 Convert PDFs in your Calibre library to EPUB. Reflowable EPUBs let you adjust text size and margins. Fixed-layout EPUBs keep the original page appearance, including columns, tables, and artwork.
 
