@@ -1,0 +1,8 @@
+PDF to EPUB (Keep Formatting)
+
+For Kim, the cutest lawyer ever. I made this for you.
+
+Convert PDFs in your Calibre library into reflowable or fixed-layout EPUBs.
+The plugin uses PDF bookmarks for navigation and can read scanned pages with Tesseract.
+
+The toolbar icon was drawn for this plugin and is dedicated to the public domain under CC0 1.0.
